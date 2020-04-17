@@ -1,6 +1,6 @@
 # Java-Performance-Problems
 
-Top Common Problems Occures in Java and Tools to be used
+#Top Common Problems Occures in Java and Tools to be used
 
 minimise memeory:
 
